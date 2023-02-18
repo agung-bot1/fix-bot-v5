@@ -58,19 +58,19 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
+global.pdana = '0895406419364' //dana
 global.povo = '08XXXXXXXXXX' //ovo
 global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
+global.ppulsa = '0895406419364' //telkomsel
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
+global.nomorown = '62895406419364'
 global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nameown = 'Agung MODS DEV'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'WH-MODS-BOT' // nama github lu
@@ -86,7 +86,7 @@ global.openaikey = "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"
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
+  ['620895406419364', 'Agung MODS DEV', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -163,9 +163,9 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚
 global.wm3 = "⫹⫺ WH-MODS-BOT-V1"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Agung-MODS-DEV`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "WH MODS DEV 乂 WH MODS BOT"
+global.author = "Agung MODS DEV 乂 WH MODS BOT"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -240,7 +240,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickauth = `By ©Agung-MODS-DEV`
 
 global.multiplier = 69 // The higher, The harder levelup
 
