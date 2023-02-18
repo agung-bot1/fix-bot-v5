@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "Procfile"]
+CMD ["node", "session.data.json"]
