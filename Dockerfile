@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "session.data.json"]
+CMD ["node", "index.js"]
