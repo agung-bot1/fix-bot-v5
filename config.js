@@ -62,12 +62,12 @@ global.pdana = '0895406419364' //dana
 global.povo = '08XXXXXXXXXX' //ovo
 global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '0895406419364' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.ppulsa = '0895406419364' //Tri
+global.ppulsa2 = '0895406419364' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
+global.nomorbot = '6285794583615'
 global.nomorown = '62895406419364'
 global.namebot = 'WH-MODS-BOT-V1'
 global.nameown = 'Agung MODS DEV'
